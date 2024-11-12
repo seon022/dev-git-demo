@@ -1,7 +1,7 @@
 category: java
-lectures: Lim
 related:
 
+-   OOP
 -   spring
 -   MVC
 -   class
