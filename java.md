@@ -7,3 +7,4 @@ related: Kang Relayted
 -   eclipse
 -   springboot
 -   exception
+-   inherit
