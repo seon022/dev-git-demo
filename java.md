@@ -1,7 +1,5 @@
 category: java
-lectures: Lim
+lectures: Jin
 related:
 
--   spring
--   MVC
--   class
+-   xcss
