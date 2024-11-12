@@ -1,7 +1,7 @@
 category: java
 title: java advanced
 lectures: Jin
-related: Kang수정
+related: exception
 
 -   xcss
 -   eclipse
