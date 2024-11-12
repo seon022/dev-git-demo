@@ -1,7 +1,7 @@
 category: java
 title: java advanced
 lectures: Jin
-related:
+related: Kang Relayted
 
 -   xcss
 -   eclipse
